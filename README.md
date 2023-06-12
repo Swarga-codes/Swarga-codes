@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<img align="right" alt="GIF" height="200px" src="DALL·E 2023-06-12 14.33.19 - guy programmer vector art rgb with a dev background wearing hoodie coding at laptop.png" />
+<img align="right" alt="GIF" height="200px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" />
 
 - 🔭 I’m currently working on expanding my MERN skills
 - 🌱 I’m currently learning about Socket.io
