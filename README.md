@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 -->
+<img align="right" alt="GIF" height="200px" src="DALL·E 2023-06-12 14.33.19 - guy programmer vector art rgb with a dev background wearing hoodie coding at laptop.png" />
+
 - 🔭 I’m currently working on expanding my MERN skills
 - 🌱 I’m currently learning about Socket.io
 - 👯 I’m looking to collaborate on full stack projects
