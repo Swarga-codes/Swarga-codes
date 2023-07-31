@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on full stack projects
 - 🤔 I’m looking for help with learning and understanding new technologies
 - 💬 Ask me about React, Node, Databases
+- 👨‍💻 Checkout my portfolio <a href="https://my-portfolio-9bb091.webflow.io/" target="_blank">here</a>
 - 📫 How to reach me: <br/>   
 <a href="https://github.com/Swarga-codes" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
