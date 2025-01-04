@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="GIF" height="200px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" />
 
-- 🔭 I’m currently working on expanding my MERN skills
-- 🌱 I’m currently learning about WebRTC
+- 🔭 I’m currently working on expanding my Backend Development skills
+- 🌱 I’m currently learning about SpringBoot and Kafka.
 - 👯 I’m looking to collaborate on full stack projects
 - 🤔 I’m looking for help with learning and understanding new technologies
 - 💬 Ask me about React, Node, Databases
